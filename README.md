@@ -4,5 +4,5 @@ As our first data science group project in Data Science 100 at UBC, we applied t
 We built the model with an iterative process and different visualization techniques are applied throughout the process. Feel free to explore the final report:   
   
 RockTypeClassification_FinalReport.ipynb 
-  
-and please reach out if you have any questions! 
+
+<img src="FinalPrediction.JPG" alt="drawing" width="600"/>
